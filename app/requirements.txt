@@ -1,4 +1,0 @@
-Flask                      # Web framework for creating the UI
-python-aiml                # AIML processing library
-gunicorn                   # Production WSGI server for deploying Flask apps
-
